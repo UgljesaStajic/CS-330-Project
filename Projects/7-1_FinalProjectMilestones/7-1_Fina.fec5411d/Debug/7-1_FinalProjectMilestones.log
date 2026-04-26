@@ -1,0 +1,3 @@
+﻿  ViewManager.cpp
+C:\Users\Uglje\Videos\CS330Content-Final project\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(285,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\Uglje\Videos\CS330Content-Final project\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
